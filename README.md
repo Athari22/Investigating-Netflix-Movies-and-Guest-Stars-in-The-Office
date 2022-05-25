@@ -4,7 +4,7 @@
 * [General info](#general-info)
 * [Description](#Description)
 * [Guided project](#Guided-project)
-* [Guided project](#Unguided Project)
+* [Guided project](#Unguided-Project)
 
 ## General info
 This project is part of Data Scientist with Python [datacomp](https://app.datacamp.com/learn/career-tracks/data-scientist-with-python?version=5).
