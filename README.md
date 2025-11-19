@@ -89,5 +89,4 @@ source venv/bin/activate   # On Windows: venv\Scripts\activate
 ```
 jupyter notebook
 ```
-## 📁 Repository Structure
 
